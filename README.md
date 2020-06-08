@@ -6,4 +6,4 @@ To install on Linux just clone the repository, go the playwright-cucumber-exampl
 To run scenarios just run ./start.sh run
 You can also configure execution by chosing which browser should playwright use, which campaign, headless mode and if use JS or TS.
 For example to execute only smoke tests on firefox in headless mode with TS just type ./start.sh run firefox smoke headless ts
-To get full info about commands of shell script just type ./start.sh help 
+To get full info about commands of shell script just type ./start.sh help  
