@@ -6,7 +6,7 @@ Its using http://qainterview.pythonanywhere.com/ site as a testing platform. <br
 **./start.sh run**     <= To execute scenarios <br/><br/>
 Runner can also be configured with browser type, campaign, headless mode and or JS or TS mode <br/>
 **./start.sh run firefox smoke headless ts** <= to execute only smoke tests on firefox in headless mode with TS <br/>
-**./start.sh help** <= To get full info about commands of shell script just type  <br/><br/><br/>
+**./start.sh help** <= To get full info about commands of shell script just type  <br/><br/>
 
 This solution is fully portable and doesnt require install access rights.
 
